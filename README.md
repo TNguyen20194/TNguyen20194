@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Truong Nguyen</h1>
 <h3 align="center">I’m interested in Web Development and aiming for a front-end role. I’m currently learning Web Development through Codecademy and CodingPhase.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnguyen20194" alt="tnguyen20194" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 - 📫 How to reach me **truong.nguyen201@gmail.com**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truong Nguyen</h1>
 <h3 align="center">I’m passionate about Web Development and aiming for a front-end role. I’m currently learning Web Development through Codecademy and CodingPhase.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 My portfolio: https://tpnguyen.dev/
 
 - 📫 How to reach me **truong.nguyen201@gmail.com**
 

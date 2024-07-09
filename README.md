@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truong Nguyen</h1>
 <h3 align="center">I’m passionate about Web Development and building exciting projects</h3>
 
-- 🌱 My portfolio: https://tpnguyen.dev/
+- 🌱 My portfolio: https://tpnguyen.ca/
 
 - 📫 How to reach me **truong.nguyen201@gmail.com**
 
